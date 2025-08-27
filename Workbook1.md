@@ -1,4 +1,4 @@
-# Workbook Summary: Data Technician Course
+# Workbook Summary: Data Technician Course Week1
 
 This workbook provides a comprehensive overview of the tasks and concepts covered in a Data Technician course. It is designed to demonstrate practical skills in data handling, analysis, and presentation, as well as an understanding of key data laws and regulations.
 
