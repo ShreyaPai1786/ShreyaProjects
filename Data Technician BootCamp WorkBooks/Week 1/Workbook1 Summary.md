@@ -33,7 +33,7 @@ This section showcases advanced data manipulation and visualization techniques.
 * **Task 2: The `SWITCH` Function:** Categorizing sales volume data (High, Medium, Low) using the `SWITCH` function in Excel. This task also includes creating a pivot table to summarize the categorized data by county and product.
 * **Task 3: Visualizations:** Generating charts and graphs to visualize data from a bike sales dataset. This includes creating line graphs to show annual revenue and profit trends, a stacked bar chart to display product revenue by country, and a pie chart to compare revenue across different age groups.
 
-![Pivot Chart](Images/Pivot%20Chart.png)
+![Pivot_Chart](Images/Pivot_Chart.png)
 
 ---
 
