@@ -11,7 +11,16 @@ The workbook's exercises cover the following topics:
     * Manipulating data by adding, renaming, and dropping columns.
     * Aggregating and grouping data to calculate summary statistics like mean and counts.
     * Performing advanced operations such as creating pivot tables and applying custom functions.
+
+  ![Python_in_Collab](Images/Python_in_Collab.png)
+
+  ![Python_Practice](Images/Python_Practice.png)
+
 * **Data Visualization**: Includes an optional exercise on visualizing data using Matplotlib to create bar and pie charts to represent student grades.
 * **Real-world Application**: Features a separate section with tasks using a "GDP (nominal) per Capita.csv" dataset to reinforce the skills learned and explore real-world data.
 
+ ![Python_Visualisation](Images/Python_Visualisation.png)
+
+ ![Python_Visuals](Images/Python_Visuals.png)
+ 
 The exercises are designed to be completed in a hands-on manner, with space provided to paste code and the corresponding outputs. This makes the document an excellent resource for learning and demonstrating proficiency in essential data skills.
