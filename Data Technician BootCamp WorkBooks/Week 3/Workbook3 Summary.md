@@ -28,6 +28,8 @@ This workbook provides a comprehensive overview of fundamental database concepts
     * **One-to-Many:** A single record in one table can be linked to multiple records in another (e.g., a customer and their orders).
     * **Many-to-Many:** Multiple records in one table can be linked to multiple records in another (e.g., students and courses), often requiring a **join table** to model the relationship.
 
+  ![Lucid Chart](Images/Lucid_Chart.png)
+
 ### Relational vs. Non-Relational Databases
 * **Relational Databases (SQL):** Store data in structured tables with rows and columns. They are ideal for structured data with clear relationships, such as customer records. Examples include MySQL.
 * **Non-Relational Databases (NoSQL):** Store data in flexible formats like documents, key-value pairs, or graphs. They are better suited for **unstructured or semi-structured data** like social media posts or user profiles. An example is MongoDB.
@@ -42,3 +44,7 @@ The workbook provides practical examples of SQL queries for common data tasks, i
 * **`JOIN`:** Combining rows from two or more tables based on a related column, essential for linking entities like countries and their capital cities.
 * **`GROUP BY` and `AVG()`:** Grouping data and calculating aggregate values, such as the average population per country.
 * **`INSERT` and `CREATE TABLE`:** Commands for populating and defining the structure of a database and its tables.
+
+  ![SQL_Practice](Images/SQL_Practice.png)
+
+  ![SQL_Queries](Images/SQL_Queries.png)
