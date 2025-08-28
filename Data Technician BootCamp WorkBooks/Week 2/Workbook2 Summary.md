@@ -45,4 +45,4 @@ The workbook is structured around a series of daily tasks, each building on a co
 
 ---
 
-This workbook serves as a practical guide to foundational skills in data visualization and business intelligence. The included tasks demonstrate the process of data analysis from initial exploration to final dashboard creation.
+This workbook serves as a practical guide to foundational skills in data visualization and business intelligence. This included tasks demonstrate the process of data analysis from initial exploration to final dashboard creation.
