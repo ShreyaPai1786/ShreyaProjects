@@ -12,6 +12,11 @@ The workbook is structured around a series of daily tasks, each building on a co
 
 * **Task 1: Tableau Versions**: A comparison of different Tableau versions, including **Tableau Desktop**, **Tableau Server**, **Tableau Cloud**, **Tableau Prep**, and **Tableau Public**. The analysis highlights the specific, limited functionality of the free Tableau Public version.
 * **Task 2: UK Job Market Dashboard**: Using the `EMSI_JobChange_UK` dataset, a dashboard was created to visualize job market changes. The dashboard includes a bar chart showing percentage change and a UK map highlighting affected cities.
+
+    ![Tableau_Chart](Images/Tableau_Chart.png)
+
+    ![Tableau](Images/Tableau.png)
+
 * **Task 3: Spotify Data Trends**: An exploration of a Spotify dataset to identify trends in music popularity. The analysis revealed that Pop, Rap, and Rock are the most popular genres, and that **danceability** and **energy** are strong indicators of a song's popularity. It also noted the surprising popularity of composers and instrumental music.
 
   ![Tableau_Analytics_Chart](Images/Tableau_Analytics_Chart.png)
