@@ -26,8 +26,14 @@ The workbook is structured around a series of daily tasks, each building on a co
 ### **Power BI Labs**
 
 * **Lab 1: Get Data in Power BI Desktop**: A guided exercise on connecting to and importing various data sources into Power BI. This lab focuses on the initial steps of a data project, including data validation and query settings.
+
+    ![PowerBI_Chart](Images/PowerBI_Chart.png)
+
 * **Lab 2: Load Transformed Data**: A lab focused on the transformation process within Power BI. The task involves filtering and manipulating data, such as removing columns and replacing values, before loading it into a data model.
 * **Lab 8: Design a Report**: A practical exercise in creating a professional report in Power BI Desktop. The lab covers designing multi-page reports with different visualizations and applying slicers for interactive filtering.
+
+      ![PowerBI_Practice](Images/PowerBI_Practice.png)
+
 * **Lab 12: Create a Power BI Dashboard**: The final task, where you build a comprehensive dashboard in the Power BI service. This includes creating visualizations and using features like the Q&A box for natural language queries.
 
 ---
