@@ -43,6 +43,11 @@ This section includes practical labs exploring data in Microsoft Azure's environ
     * Aggregating data with `COUNT`, `AVG`, and `SUM`.
     * Joining tables using `JOIN`.
     * Grouping and ordering results with `GROUP BY` and `ORDER BY`.
+ 
+    ![Azure_Data_Analytics](Images/Azure_Data_Analytics.png)
+
+    ![Azure_Practice](Images/Azure_Practice.png)
+
 * **Non-Relational Data**: A lab focusing on non-relational data in Azure, possibly using services like **Azure Blob Storage** or **Azure Cosmos DB**.
 
 ---
@@ -55,6 +60,9 @@ The final day covers more advanced data tasks, including data integration and an
     * Data ingestion and transformation with **Data Factory**.
     * Data querying and analysis using **SQL**.
     * Data visualization and reporting with **Power BI**.
+ 
+   ![Microsoft_Fabric](Images/Microsoft_Fabric.png)
+
 * **Practice Exam**: Completion of a practice exam for the **Microsoft Azure Data Fundamentals (DP-900)** certification, showcasing a score and performance breakdown by section.
 * **Optional Scenario**: A detailed report proposal for a fictional company, "Paws & Whiskers," outlining a data migration and analytics strategy on Azure. The report covers:
     * Relevant data laws and regulations (GDPR, DPA 2018).
