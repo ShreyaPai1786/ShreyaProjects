@@ -35,6 +35,8 @@ This section showcases advanced data manipulation and visualization techniques.
 
 ![Pivot_Chart](Images/Pivot_Chart.png)
 
+![Sales_Visualisations](Images/Sales_Visualisations.png)
+
 ---
 
 ## 🗣️ Day 4: Preparing a Data-Driven Presentation
