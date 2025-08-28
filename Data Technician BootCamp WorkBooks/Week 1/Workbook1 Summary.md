@@ -34,6 +34,8 @@ This section showcases advanced data manipulation and visualization techniques.
 * **Task 3: Visualizations:** Generating charts and graphs to visualize data from a bike sales dataset. This includes creating line graphs to show annual revenue and profit trends, a stacked bar chart to display product revenue by country, and a pie chart to compare revenue across different age groups.
 
 ---
+![Pivot Chart](Data%20Technician%20BootCamp%20WorkBooks/Week%201/Pivot%20Chart.png)
+
 
 ## 🗣️ Day 4: Preparing a Data-Driven Presentation
 
