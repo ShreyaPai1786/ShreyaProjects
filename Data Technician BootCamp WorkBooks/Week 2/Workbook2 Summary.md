@@ -23,6 +23,8 @@ The workbook is structured around a series of daily tasks, each building on a co
 
 * **Task 4: Global Health Analysis**: An analysis of global health data, including a reflection on how such data can be used by organizations like the NHS to improve decision-making, resource allocation, and public health initiatives. The analysis includes a dashboard showing trends in life expectancy, BMI, and cancer rates across different continents.
 
+  ![Tableau_HealthData](Images/Tableau_HealthData.png)
+
 ### **Power BI Labs**
 
 * **Lab 1: Get Data in Power BI Desktop**: A guided exercise on connecting to and importing various data sources into Power BI. This lab focuses on the initial steps of a data project, including data validation and query settings.
@@ -39,6 +41,8 @@ The workbook is structured around a series of daily tasks, each building on a co
 
 * **Lab 12: Create a Power BI Dashboard**: The final task, where you build a comprehensive dashboard in the Power BI service. This includes creating visualizations and using features like the Q&A box for natural language queries.
 
+  ![PowerBI_DashBoard](Images/PowerBI_DashBoard.png)
+
 ---
 
-This workbook serves as a practical guide to foundational skills in data visualization and business intelligence. The included tasks demonstrate the process of data analysis from initial exploration to final dashboard creation.
+This workbook serves as a practical guide to foundational skills in data visualization and business intelligence. This included tasks demonstrate the process of data analysis from initial exploration to final dashboard creation.
