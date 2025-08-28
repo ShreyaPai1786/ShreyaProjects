@@ -13,9 +13,9 @@ The workbook is structured around a series of daily tasks, each building on a co
 * **Task 1: Tableau Versions**: A comparison of different Tableau versions, including **Tableau Desktop**, **Tableau Server**, **Tableau Cloud**, **Tableau Prep**, and **Tableau Public**. The analysis highlights the specific, limited functionality of the free Tableau Public version.
 * **Task 2: UK Job Market Dashboard**: Using the `EMSI_JobChange_UK` dataset, a dashboard was created to visualize job market changes. The dashboard includes a bar chart showing percentage change and a UK map highlighting affected cities.
 
-  ![Tableau_Chart](Images/Tableau_Chart.png)
+    ![Tableau_Chart](Images/Tableau_Chart.png)
 
-  ![Tableau](Images/Tableau.png)
+    ![Tableau](Images/Tableau.png)
 
 * **Task 3: Spotify Data Trends**: An exploration of a Spotify dataset to identify trends in music popularity. The analysis revealed that Pop, Rap, and Rock are the most popular genres, and that **danceability** and **energy** are strong indicators of a song's popularity. It also noted the surprising popularity of composers and instrumental music.
 
@@ -29,15 +29,12 @@ The workbook is structured around a series of daily tasks, each building on a co
 
 * **Lab 1: Get Data in Power BI Desktop**: A guided exercise on connecting to and importing various data sources into Power BI. This lab focuses on the initial steps of a data project, including data validation and query settings.
 
-  ![PowerBI_Chart](Images/PowerBI_Chart.png)
+    ![PowerBI_Chart](Images/PowerBI_Chart.png)
 
 * **Lab 2: Load Transformed Data**: A lab focused on the transformation process within Power BI. The task involves filtering and manipulating data, such as removing columns and replacing values, before loading it into a data model.
-
-  ![PowerBI_Chart](Images/PowerBI_Chart.png)
-
 * **Lab 8: Design a Report**: A practical exercise in creating a professional report in Power BI Desktop. The lab covers designing multi-page reports with different visualizations and applying slicers for interactive filtering.
 
-  ![PowerBI_Practice](Images/PowerBI_Practice.png)
+      ![PowerBI_Practice](Images/PowerBI_Practice.png)
 
 * **Lab 12: Create a Power BI Dashboard**: The final task, where you build a comprehensive dashboard in the Power BI service. This includes creating visualizations and using features like the Q&A box for natural language queries.
 
